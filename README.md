@@ -4,4 +4,4 @@
 
 struct myevents 相当于红黑树结点上的一张信息表，维护着结点的信息.
 
-
+abcdefg
